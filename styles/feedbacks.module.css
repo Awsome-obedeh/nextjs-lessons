@@ -1,0 +1,16 @@
+.formControl{
+    width:100%;
+    margin:.5rem;
+
+}
+
+.wrapper{
+    width:50rem;
+    display:block;
+    margin:auto;
+    padding:1rem;
+}
+
+.input{
+    padding:1.5rem;
+}
